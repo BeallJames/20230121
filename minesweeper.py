@@ -15,6 +15,7 @@ Project specs, files, code all over the place? Start using Backlog for efficient
 import random
 import re
 
+#
 # lets create a board object to represent the minesweeper game
 # this is so that we can just say "create a new board object", or
 # "dig here", or "render this game for this object"
